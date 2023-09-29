@@ -10,7 +10,7 @@
 
 <div align="center">
   
-    I am a passionate and creative developer specializing in Virtual Reality (VR) and Augmented Reality (AR) development. With a strong background in Laravel, I am also a skilled full-stack developer. My goal is to create immersive experiences and innovative solutions that push the boundaries of technology.
+I am a passionate and creative developer specializing in Virtual Reality (VR) and Augmented Reality (AR) development. With a strong background in Laravel, I am also a skilled full-stack developer. My goal is to create immersive experiences and innovative solutions that push the boundaries of technology.
   
 🔭 I’m currently working mostly as an AR/VR Developer.
   
@@ -38,12 +38,4 @@
 # 🎮 Gaming Together?
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198824747512) ![Valo](https://img.shields.io/badge/Riot_ID-rip_aim_%23_dexel-e91640?style=for-the-badge&logo=valorant&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-ABDULIST-3399ff?style=for-the-badge&logo=ubisoft&logoColor=white)
 
-</div>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/abdulist/abdulist/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 </div>
