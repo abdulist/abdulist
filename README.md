@@ -29,6 +29,7 @@ I am a passionate and creative developer specializing in Virtual Reality (VR) an
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![mySQL](https://img.shields.io/badge/MySQL-E34F26?style=for-the-badge&logo=mysql&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![ue](https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white) ![MSW](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) ![MSE](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![MSP](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulist&layout=donut-vertical)](https://github.com/abdulist/abdulist)
   
 # 💻 My Rig Specification
 
@@ -41,9 +42,6 @@ I am a passionate and creative developer specializing in Virtual Reality (VR) an
 </div>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
+  <h2>🐍 My Contributions</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/abdulist/abdulist/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 </div>
