@@ -12,7 +12,9 @@
   
 I am a passionate and creative developer specializing in Virtual Reality (VR) and Augmented Reality (AR) development. With a strong background in Laravel, I am also a skilled full-stack developer. My goal is to create immersive experiences and innovative solutions that push the boundaries of technology.
   
-🔭 I’m currently working mostly as an AR/VR Developer.
+🔭 I’m currently working mostly as an AR/VR Developer and as a Fullstack Web Developer.
+
+🔍 I’m currently doing a Research and Learning about AI, Machine Learning, and other LLM.
   
 🌱 I’m currently studying at Telkom University as an Application Software Engineering Student.
 
