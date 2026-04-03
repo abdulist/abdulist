@@ -35,7 +35,7 @@ I am a passionate and creative developer specializing in Virtual Reality (VR) an
   
 # 💻 My Rig Specification
 
-![CPU](https://img.shields.io/badge/Intel-Core_i5_9th_9300H-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![GPU](https://img.shields.io/badge/NVIDIA-GTX1660TI_6GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![RAM](https://img.shields.io/badge/Corsair-DDR4_32GB_2666Mhz-E34F26?style=for-the-badge&logo=corsair&logoColor=white) ![OS](https://img.shields.io/badge/Windows-ASUS_ROG_G531GU-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![CPU](https://img.shields.io/badge/Intel-Core_i7_13700H-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![GPU](https://img.shields.io/badge/NVIDIA-RTX5060_8GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![RAM](https://img.shields.io/badge/Corsair-DDR5_16GB_5200Mhz-E34F26?style=for-the-badge&logo=corsair&logoColor=white) ![OS](https://img.shields.io/badge/Windows-AXIOO_PONGO_765v2-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
 # 🎮 Gaming Together?
